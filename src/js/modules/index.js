@@ -9,6 +9,7 @@ module.exports = [
   require('./chatCleaner.js'),
   require('./chatNotifications.js'),
   require('./pmNotifications.js'),
+  require('./joinNotification.js'),
   require('./djNotification.js'),
   require('./showDubsOnHover.js'),
   require('./downDubInChat.js'), // (mod only)
